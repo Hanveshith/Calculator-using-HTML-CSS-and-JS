@@ -62,3 +62,8 @@ button{
     color: white;
     background-color:  rgb(255, 98, 0);
 }
+
+.button::after{
+    color:rgb(255, 98, 0);
+    background-color: white;
+}
